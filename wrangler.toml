@@ -1,3 +1,4 @@
+account_id = "1a4ae267e50f623152656906eec57fca"
 name = "bark-worker"
 main = "main.js"
 compatibility_date = "2025-03-01"
